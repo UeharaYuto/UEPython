@@ -1,3 +1,2 @@
-# PythonTest
-
-Developed with Unreal Engine 5
+PythonScriptはContent/PythonにあるMyTest.pyです。
+実行方法は、Content内のBPW_Pythonを実行し、RunボタンをクリックするNewLocationの座標に選択しているアクターが動きます。
